@@ -1,0 +1,14 @@
+---
+title: "About Me"
+author: "Olivia Wilson-Pietrzak"
+format: html
+---
+
+
+I am an aspiring social scientist currently completing my master's degree in Social Data Analytics and Research. My research interests are varied, but my most recent work has centered on the intersection of community development, housing, transportation, and economic justice. I hope to center future research on prescriptive solutions promoting socioeconomic equity.
+
+Research topics that interest me include infrastructure, education, and public policy.
+
+I graduated with a B.A. in Economics from the University of Texas at Dallas in 2022, and am currently employed as a data analyst in an institutional research role at Dallas College.
+
+This is my first class using Quarto and Github. Hopefully the rest of the semester is able to go more smoothly than the first few weeks.

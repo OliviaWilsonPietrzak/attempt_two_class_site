@@ -1,0 +1,21 @@
+project:
+  title: "EPPS 6302 -- Olivia Pietrzak"
+website:
+  navbar:
+    background: primary
+    search: true
+    left:
+      - href: Class_Site_Directory.qmd
+        text: Home
+      - href: About Me.qmd
+        text: About
+      - href: Homework_1.qmd
+        text: Homework 1
+        
+format:
+  html:
+    theme: yeti
+    css: styles.css
+    toc: true
+editor: visual
+
